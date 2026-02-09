@@ -1,4 +1,4 @@
-# Computational Lab: Visualizing Error Propagation with the Leibniz Series
+# Computational Lab: Visualizing Error Propagation
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
