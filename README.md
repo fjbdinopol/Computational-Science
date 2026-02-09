@@ -28,7 +28,7 @@ By feeding these two different $\pi$ values into the formula for the **Lateral S
 ### Console Output
 Running the script prints the comparison table. The exact numbers and an explanation of when the gap is 0 vs 0.0001 are shown below.
 
-![Console Output Screenshot](images/console.png)
+![Console Output Screenshot](images/result.png)
 
 ### Visualization
 The graph compares the calculated cone areas step-by-step.
